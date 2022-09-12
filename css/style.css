@@ -85,7 +85,8 @@ main .frame {
   justify-items: center; }
   .only-fight img {
     margin-bottom: 15px;
-    height: 40vh; }
+    height: 40vh;
+    width: 35ch; }
 
 .blast-training {
   background-image: linear-gradient(rgba(0, 0, 255, 0.575), black, rgba(0, 0, 255, 0.575));
@@ -101,7 +102,8 @@ main .frame {
   justify-items: center; }
   .ultra-cycle img {
     height: 40vh;
-    margin-bottom: 15px; }
+    margin-bottom: 15px;
+    width: 34ch; }
 
 main h3 {
   color: white; }
