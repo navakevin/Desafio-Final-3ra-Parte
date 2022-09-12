@@ -28,8 +28,8 @@ h1 {
 .section-marisol, .section-bryan, .section-kevin {
   display: flex;
   align-items: center;
-  padding-left: 7%;
-  padding-right: 7%; }
+  padding-left: 6%;
+  padding-right: 6%; }
 
 header .nav-color {
   background-color: black; }
@@ -74,11 +74,10 @@ main .frame {
     font-size: large; }
 
 .section-kevin {
-  justify-content: space-between;
   font-size: large; }
   .section-kevin img {
-    height: 50vh;
-    padding: 10px; }
+    height: 45vh;
+    padding-bottom: 10px; }
 
 .only-fight {
   background-image: linear-gradient(rgba(255, 0, 0, 0.575), black, rgba(255, 0, 0, 0.575));
@@ -86,7 +85,8 @@ main .frame {
   justify-items: center; }
   .only-fight img {
     margin-bottom: 15px;
-    height: 40vh; }
+    height: 40vh;
+    width: 25%; }
 
 .blast-training {
   background-image: linear-gradient(rgba(0, 0, 255, 0.575), black, rgba(0, 0, 255, 0.575));
