@@ -85,8 +85,7 @@ main .frame {
   justify-items: center; }
   .only-fight img {
     margin-bottom: 15px;
-    height: 40vh;
-    width: 25%; }
+    height: 40vh; }
 
 .blast-training {
   background-image: linear-gradient(rgba(0, 0, 255, 0.575), black, rgba(0, 0, 255, 0.575));
