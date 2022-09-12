@@ -1,0 +1,33 @@
+.section-marisol {
+    @extend %textosection;
+    font-size: large;
+
+    img {
+        height: 60vh;
+    }
+}
+
+.section-bryan {
+    @extend %textosection;
+    justify-content: center;
+
+    img {
+        height: 60vh;
+    }
+
+    p {
+        width: 81%;
+        font-size: large
+    }
+}
+
+.section-kevin {
+    @extend %textosection;
+    justify-content: space-between;
+    font-size: large;
+
+    img {
+        height: 50vh;
+        padding: 10px;
+    }
+}
